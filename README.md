@@ -9,6 +9,9 @@ Install dependencies with `npm install`, then start the server by running `npm r
 ## View it live
 
 https://vrill-golden-globes.herokuapp.com/ Hello World!
+
 https://vrill-golden-globes.herokuapp.com/nominations (dataset)
+
 https://vrill-golden-globes.herokuapp.com/year/2015 (specific year)
+
 https://vrill-golden-globes.herokuapp.com/year/2015?win=true (query)
